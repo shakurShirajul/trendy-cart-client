@@ -1,0 +1,582 @@
+[
+    {
+      "_id": "60d21b4667d0d8992e610c85",
+      "name": "Sony PlayStation 5",
+      "images": ["https://www.ubuy.com.bd/productimg/?image=aHR0cHM6Ly9pNS53YWxtYXJ0aW1hZ2VzLmNvbS9zZW8vU29ueS1QbGF5U3RhdGlvbi01LURpZ2l0YWwtRWRpdGlvbi1WaWRlby1HYW1lLUNvbnNvbGVzXzY0ZmNjNWI2LWEzMTQtNDY1OS05OTZkLWFlMGI1OGRhY2I2Ni4zMGI0NTc0YWQ1ODg2MjBjYzlmYmE2YjYzMDRjODA3Ny5qcGVn.jpg", "https://bsmedia.business-standard.com/_media/bs/img/article/2023-10/11/full/1697008191-1052.jpg?im=FeatureCrop,size=(826,465)"],
+      "tags": ["console", "gaming", "playstation"],
+      "category": "Gaming Console",
+      "brand": "Sony",
+      "price": 499.99,
+      "discount_price": 449.99,
+      "short_description": "Next-generation gaming console from Sony.",
+      "rating": 4.8,
+      "quantity": 150,
+      "total_sell": 2000,
+      "additional_information": {
+        "color": "White",
+        "storage": "825GB",
+        "controller_included": true
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c86",
+      "name": "Xbox Series X",
+      "images": ["https://cdn.mos.cms.futurecdn.net/eH7muHj6y4RyJ5QYkGX8oT-1200-80.jpg", "https://cdn.mos.cms.futurecdn.net/uFicTu3Ti56psJpsTGQ64C-1200-80.jpg"],
+      "tags": ["console", "gaming", "xbox"],
+      "category": "Gaming Console",
+      "brand": "Microsoft",
+      "price": 499.99,
+      "discount_price": 459.99,
+      "short_description": "The most powerful Xbox ever.",
+      "rating": 4.7,
+      "quantity": 200,
+      "total_sell": 1800,
+      "additional_information": {
+        "color": "Black",
+        "storage": "1TB",
+        "controller_included": true
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c87",
+      "name": "Nintendo Switch",
+      "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYNsVYE7t-lTpfvwevimtbJoCfDxC34MDHmw&s", "https://cdn.mos.cms.futurecdn.net/P7fAM2JYVaUeMATqRKxbjL.jpg"],
+      "tags": ["console", "gaming", "nintendo"],
+      "category": "Gaming Console",
+      "brand": "Nintendo",
+      "price": 299.99,
+      "discount_price": 279.99,
+      "short_description": "Hybrid console for gaming on the go.",
+      "rating": 4.6,
+      "quantity": 250,
+      "total_sell": 3000,
+      "additional_information": {
+        "color": "Red/Blue",
+        "storage": "32GB",
+        "controller_included": true
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c88",
+      "name": "Apple iPhone 14 Pro",
+      "images": ["https://i5.walmartimages.com/seo/Restored-Apple-iPhone-14-Pro-128GB-Deep-Purple-T-Mobile-MQ0E3LL-A-Refurbished_1385d15c-17b0-4392-8fc1-414cae1a51ed.75f6972b7faabe8490df9e82084adf01.jpeg", "https://brotherselectronicsbd.com/image/cache/catalog/demo/product/Apple/14%20pro/gold-14pro-800x800.png"],
+      "tags": ["mobile", "smartphone", "apple"],
+      "category": "Mobile",
+      "brand": "Apple",
+      "price": 999.99,
+      "discount_price": 949.99,
+      "short_description": "The latest iPhone with advanced features.",
+      "rating": 4.9,
+      "quantity": 100,
+      "total_sell": 1200,
+      "additional_information": {
+        "color": "Space Gray",
+        "storage": "256GB",
+        "camera": "12MP"
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c89",
+      "name": "Samsung Galaxy S21 Ultra",
+      "images": ["https://adminapi.applegadgetsbd.com/storage/media/large/2103-13109.jpg", "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s21-ultra-5g-3.jpg"],
+      "tags": ["mobile", "smartphone", "samsung"],
+      "category": "Mobile",
+      "brand": "Samsung",
+      "price": 1199.99,
+      "discount_price": 1099.99,
+      "short_description": "High-end smartphone with advanced camera.",
+      "rating": 4.8,
+      "quantity": 120,
+      "total_sell": 1300,
+      "additional_information": {
+        "color": "Phantom Black",
+        "storage": "512GB",
+        "camera": "108MP"
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c8a",
+      "name": "Dell XPS 13",
+      "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4_Z4_R3QgbrsIS2v4WZJEyk8AdM9KJOaBg&s", "xps-13-2.jpg", "xps-13-3.jpg"],
+      "tags": ["laptop", "dell", "ultrabook"],
+      "category": "Laptop",
+      "brand": "Dell",
+      "price": 1399.99,
+      "discount_price": 1299.99,
+      "short_description": "Compact and powerful ultrabook.",
+      "rating": 4.7,
+      "quantity": 80,
+      "total_sell": 900,
+      "additional_information": {
+        "color": "Silver",
+        "storage": "1TB SSD",
+        "ram": "16GB"
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c8b",
+      "name": "MacBook Pro 16\"",
+      "images": ["macbook-pro-16-1.jpg", "macbook-pro-16-2.jpg", "macbook-pro-16-3.jpg"],
+      "tags": ["laptop", "apple", "macbook"],
+      "category": "Laptop",
+      "brand": "Apple",
+      "price": 2499.99,
+      "discount_price": 2399.99,
+      "short_description": "High-performance laptop for professionals.",
+      "rating": 4.9,
+      "quantity": 60,
+      "total_sell": 700,
+      "additional_information": {
+        "color": "Space Gray",
+        "storage": "2TB SSD",
+        "ram": "32GB"
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c8c",
+      "name": "HP Spectre x360",
+      "images": ["spectre-x360-1.jpg", "spectre-x360-2.jpg", "spectre-x360-3.jpg"],
+      "tags": ["laptop", "hp", "convertible"],
+      "category": "Laptop",
+      "brand": "HP",
+      "price": 1599.99,
+      "discount_price": 1499.99,
+      "short_description": "Versatile 2-in-1 laptop with a stunning design.",
+      "rating": 4.6,
+      "quantity": 70,
+      "total_sell": 800,
+      "additional_information": {
+        "color": "Nightfall Black",
+        "storage": "1TB SSD",
+        "ram": "16GB"
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c8d",
+      "name": "Asus ROG Zephyrus G14",
+      "images": ["rog-zephyrus-g14-1.jpg", "rog-zephyrus-g14-2.jpg", "rog-zephyrus-g14-3.jpg"],
+      "tags": ["laptop", "asus", "gaming"],
+      "category": "Laptop",
+      "brand": "Asus",
+      "price": 1499.99,
+      "discount_price": 1399.99,
+      "short_description": "Compact and powerful gaming laptop.",
+      "rating": 4.7,
+      "quantity": 90,
+      "total_sell": 1100,
+      "additional_information": {
+        "color": "Moonlight White",
+        "storage": "1TB SSD",
+        "ram": "16GB"
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c8e",
+      "name": "Google Pixel 6 Pro",
+      "images": ["pixel-6-pro-1.jpg", "pixel-6-pro-2.jpg", "pixel-6-pro-3.jpg"],
+      "tags": ["mobile", "smartphone", "google"],
+      "category": "Mobile",
+      "brand": "Google",
+      "price": 899.99,
+      "discount_price": 849.99,
+      "short_description": "Google's latest flagship smartphone.",
+      "rating": 4.8,
+      "quantity": 110,
+      "total_sell": 950,
+      "additional_information": {
+        "color": "Stormy Black",
+        "storage": "256GB",
+        "camera": "50MP"
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c8f",
+      "name": "OnePlus 9 Pro",
+      "images": ["oneplus-9-pro-1.jpg", "oneplus-9-pro-2.jpg", "oneplus-9-pro-3.jpg"],
+      "tags": ["mobile", "smartphone", "oneplus"],
+      "category": "Mobile",
+      "brand": "OnePlus",
+      "price": 799.99,
+      "discount_price": 749.99,
+      "short_description": "Premium smartphone with fast performance.",
+      "rating": 4.7,
+      "quantity": 130,
+      "total_sell": 1000,
+      "additional_information": {
+        "color": "Morning Mist",
+        "storage": "256GB",
+        "camera": "48MP"
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c90",
+      "name": "Microsoft Surface Pro 7",
+      "images": ["surface-pro-7-1.jpg", "surface-pro-7-2.jpg", "surface-pro-7-3.jpg"],
+      "tags": ["tablet", "microsoft", "2-in-1"],
+      "category": "Tablet",
+      "brand": "Microsoft",
+      "price": 999.99,
+      "discount_price": 949.99,
+      "short_description": "Versatile 2-in-1 tablet with a detachable keyboard.",
+      "rating": 4.6,
+      "quantity": 80,
+      "total_sell": 750,
+      "additional_information": {
+        "color": "Platinum",
+        "storage": "512GB",
+        "ram": "16GB"
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c91",
+      "name": "Amazon Kindle Paperwhite",
+      "images": ["kindle-paperwhite-1.jpg", "kindle-paperwhite-2.jpg", "kindle-paperwhite-3.jpg"],
+      "tags": ["tablet", "amazon", "e-reader"],
+      "category": "Tablet",
+      "brand": "Amazon",
+      "price": 129.99,
+      "discount_price": 119.99,
+      "short_description": "Waterproof e-reader with high-resolution display.",
+      "rating": 4.8,
+      "quantity": 200,
+      "total_sell": 1500,
+      "additional_information": {
+        "color": "Black",
+        "storage": "32GB",
+        "waterproof": true
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c92",
+      "name": "Samsung Galaxy Tab S7",
+      "images": ["galaxy-tab-s7-1.jpg", "galaxy-tab-s7-2.jpg", "galaxy-tab-s7-3.jpg"],
+      "tags": ["tablet", "samsung", "android"],
+      "category": "Tablet",
+      "brand": "Samsung",
+      "price": 649.99,
+      "discount_price": 599.99,
+      "short_description": "High-performance tablet with S Pen.",
+      "rating": 4.7,
+      "quantity": 140,
+      "total_sell": 900,
+      "additional_information": {
+        "color": "Mystic Black",
+        "storage": "128GB",
+        "ram": "6GB"
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c93",
+      "name": "Sony WH-1000XM4",
+      "images": ["wh-1000xm4-1.jpg", "wh-1000xm4-2.jpg", "wh-1000xm4-3.jpg"],
+      "tags": ["headphones", "sony", "wireless"],
+      "category": "Headphones",
+      "brand": "Sony",
+      "price": 349.99,
+      "discount_price": 299.99,
+      "short_description": "Industry-leading noise-canceling headphones.",
+      "rating": 4.9,
+      "quantity": 150,
+      "total_sell": 2000,
+      "additional_information": {
+        "color": "Black",
+        "battery_life": "30 hours",
+        "wireless": true
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c94",
+      "name": "Bose QuietComfort 35 II",
+      "images": ["qc35-ii-1.jpg", "qc35-ii-2.jpg", "qc35-ii-3.jpg"],
+      "tags": ["headphones", "bose", "wireless"],
+      "category": "Headphones",
+      "brand": "Bose",
+      "price": 299.99,
+      "discount_price": 279.99,
+      "short_description": "Noise-canceling headphones with Alexa voice control.",
+      "rating": 4.8,
+      "quantity": 160,
+      "total_sell": 1800,
+      "additional_information": {
+        "color": "Silver",
+        "battery_life": "20 hours",
+        "wireless": true
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c95",
+      "name": "JBL Flip 5",
+      "images": ["jbl-flip-5-1.jpg", "jbl-flip-5-2.jpg", "jbl-flip-5-3.jpg"],
+      "tags": ["speaker", "jbl", "wireless"],
+      "category": "Speaker",
+      "brand": "JBL",
+      "price": 119.99,
+      "discount_price": 99.99,
+      "short_description": "Portable waterproof Bluetooth speaker.",
+      "rating": 4.7,
+      "quantity": 200,
+      "total_sell": 1500,
+      "additional_information": {
+        "color": "Black",
+        "battery_life": "12 hours",
+        "wireless": true
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c96",
+      "name": "Amazon Echo Dot (4th Gen)",
+      "images": ["echo-dot-4th-gen-1.jpg", "echo-dot-4th-gen-2.jpg", "echo-dot-4th-gen-3.jpg"],
+      "tags": ["speaker", "amazon", "smart"],
+      "category": "Speaker",
+      "brand": "Amazon",
+      "price": 49.99,
+      "discount_price": 39.99,
+      "short_description": "Smart speaker with Alexa.",
+      "rating": 4.6,
+      "quantity": 300,
+      "total_sell": 2500,
+      "additional_information": {
+        "color": "Charcoal",
+        "voice_assistant": "Alexa",
+        "wireless": true
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c97",
+      "name": "Fitbit Charge 4",
+      "images": ["fitbit-charge-4-1.jpg", "fitbit-charge-4-2.jpg", "fitbit-charge-4-3.jpg"],
+      "tags": ["fitness", "tracker", "fitbit"],
+      "category": "Wearable",
+      "brand": "Fitbit",
+      "price": 149.99,
+      "discount_price": 129.99,
+      "short_description": "Fitness tracker with built-in GPS.",
+      "rating": 4.7,
+      "quantity": 150,
+      "total_sell": 1300,
+      "additional_information": {
+        "color": "Black",
+        "battery_life": "7 days",
+        "water_resistant": true
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c98",
+      "name": "Apple Watch Series 6",
+      "images": ["apple-watch-6-1.jpg", "apple-watch-6-2.jpg", "apple-watch-6-3.jpg"],
+      "tags": ["wearable", "smartwatch", "apple"],
+      "category": "Wearable",
+      "brand": "Apple",
+      "price": 399.99,
+      "discount_price": 379.99,
+      "short_description": "Smartwatch with advanced health monitoring.",
+      "rating": 4.8,
+      "quantity": 100,
+      "total_sell": 900,
+      "additional_information": {
+        "color": "Silver",
+        "battery_life": "18 hours",
+        "water_resistant": true
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c99",
+      "name": "Garmin Forerunner 945",
+      "images": ["forerunner-945-1.jpg", "forerunner-945-2.jpg", "forerunner-945-3.jpg"],
+      "tags": ["wearable", "smartwatch", "garmin"],
+      "category": "Wearable",
+      "brand": "Garmin",
+      "price": 599.99,
+      "discount_price": 549.99,
+      "short_description": "Premium GPS running and triathlon smartwatch.",
+      "rating": 4.8,
+      "quantity": 90,
+      "total_sell": 600,
+      "additional_information": {
+        "color": "Black",
+        "battery_life": "2 weeks",
+        "water_resistant": true
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c9a",
+      "name": "Sony Alpha a7 III",
+      "images": ["alpha-a7-iii-1.jpg", "alpha-a7-iii-2.jpg", "alpha-a7-iii-3.jpg"],
+      "tags": ["camera", "sony", "mirrorless"],
+      "category": "Camera",
+      "brand": "Sony",
+      "price": 1999.99,
+      "discount_price": 1899.99,
+      "short_description": "Full-frame mirrorless camera with excellent performance.",
+      "rating": 4.9,
+      "quantity": 70,
+      "total_sell": 500,
+      "additional_information": {
+        "color": "Black",
+        "megapixels": "24.2MP",
+        "lens_included": true
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c9b",
+      "name": "Canon EOS R6",
+      "images": ["eos-r6-1.jpg", "eos-r6-2.jpg", "eos-r6-3.jpg"],
+      "tags": ["camera", "canon", "mirrorless"],
+      "category": "Camera",
+      "brand": "Canon",
+      "price": 2499.99,
+      "discount_price": 2399.99,
+      "short_description": "High-speed, full-frame mirrorless camera.",
+      "rating": 4.8,
+      "quantity": 60,
+      "total_sell": 450,
+      "additional_information": {
+        "color": "Black",
+        "megapixels": "20.1MP",
+        "lens_included": true
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c9c",
+      "name": "Nikon Z6 II",
+      "images": ["z6-ii-1.jpg", "z6-ii-2.jpg", "z6-ii-3.jpg"],
+      "tags": ["camera", "nikon", "mirrorless"],
+      "category": "Camera",
+      "brand": "Nikon",
+      "price": 1999.99,
+      "discount_price": 1899.99,
+      "short_description": "Versatile full-frame mirrorless camera.",
+      "rating": 4.7,
+      "quantity": 80,
+      "total_sell": 400,
+      "additional_information": {
+        "color": "Black",
+        "megapixels": "24.5MP",
+        "lens_included": true
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c9d",
+      "name": "GoPro HERO9 Black",
+      "images": ["hero9-black-1.jpg", "hero9-black-2.jpg", "hero9-black-3.jpg"],
+      "tags": ["camera", "gopro", "action"],
+      "category": "Camera",
+      "brand": "GoPro",
+      "price": 399.99,
+      "discount_price": 349.99,
+      "short_description": "Waterproof action camera with 5K video.",
+      "rating": 4.8,
+      "quantity": 120,
+      "total_sell": 800,
+      "additional_information": {
+        "color": "Black",
+        "megapixels": "20MP",
+        "waterproof": true
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c9e",
+      "name": "DJI Mavic Air 2",
+      "images": ["mavic-air-2-1.jpg", "mavic-air-2-2.jpg", "mavic-air-2-3.jpg"],
+      "tags": ["drone", "dji", "camera"],
+      "category": "Drone",
+      "brand": "DJI",
+      "price": 799.99,
+      "discount_price": 749.99,
+      "short_description": "Compact drone with 4K camera.",
+      "rating": 4.8,
+      "quantity": 90,
+      "total_sell": 600,
+      "additional_information": {
+        "color": "Gray",
+        "battery_life": "34 minutes",
+        "camera": "48MP"
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c9f",
+      "name": "DJI Mini 2",
+      "images": ["dji-mini-2-1.jpg", "dji-mini-2-2.jpg", "dji-mini-2-3.jpg"],
+      "tags": ["drone", "dji", "camera"],
+      "category": "Drone",
+      "brand": "DJI",
+      "price": 449.99,
+      "discount_price": 399.99,
+      "short_description": "Ultralight and foldable drone with 4K camera.",
+      "rating": 4.7,
+      "quantity": 110,
+      "total_sell": 700,
+      "additional_information": {
+        "color": "White",
+        "battery_life": "31 minutes",
+        "camera": "12MP"
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610ca0",
+      "name": "Ring Video Doorbell Pro 2",
+      "images": ["ring-doorbell-pro-2-1.jpg", "ring-doorbell-pro-2-2.jpg", "ring-doorbell-pro-2-3.jpg"],
+      "tags": ["home", "security", "ring"],
+      "category": "Home Security",
+      "brand": "Ring",
+      "price": 249.99,
+      "discount_price": 229.99,
+      "short_description": "Smart doorbell with advanced motion detection.",
+      "rating": 4.8,
+      "quantity": 140,
+      "total_sell": 900,
+      "additional_information": {
+        "color": "Silver",
+        "resolution": "1536p",
+        "smart_home_integration": true
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    },
+    {
+      "_id": "60d21b4667d0d8992e610ca1",
+      "name": "Nest Learning Thermostat",
+      "images": ["nest-thermostat-1.jpg", "nest-thermostat-2.jpg", "nest-thermostat-3.jpg"],
+      "tags": ["home", "smart", "nest"],
+      "category": "Home Automation",
+      "brand": "Google",
+      "price": 249.99,
+      "discount_price": 219.99,
+      "short_description": "Smart thermostat that learns your schedule.",
+      "rating": 4.7,
+      "quantity": 150,
+      "total_sell": 1000,
+      "additional_information": {
+        "color": "White",
+        "smart_home_integration": true,
+        "energy_saving": true
+      },
+      "date_&_time": "2024-07-11T10:00:00Z"
+    }
+  ]
