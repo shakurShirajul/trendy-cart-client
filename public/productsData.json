@@ -122,7 +122,7 @@
     {
       "_id": "60d21b4667d0d8992e610c8b",
       "name": "MacBook Pro 16\"",
-      "images": ["macbook-pro-16-1.jpg", "macbook-pro-16-2.jpg", "macbook-pro-16-3.jpg"],
+      "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmHnZuWPfaHoQQPBMtoKanJp9pLmvWOXKMoA&s", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7XTBThAL2OYLMij7e8ux1l_YpgATwzmZrWA&s"],
       "tags": ["laptop", "apple", "macbook"],
       "category": "Laptop",
       "brand": "Apple",
@@ -142,7 +142,7 @@
     {
       "_id": "60d21b4667d0d8992e610c8c",
       "name": "HP Spectre x360",
-      "images": ["spectre-x360-1.jpg", "spectre-x360-2.jpg", "spectre-x360-3.jpg"],
+      "images": ["https://computermania-bd.b-cdn.net/wp-content/uploads/HP-Spectre-x360-15-Price-in-BD.jpg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ00cOkNp6rTZA2omjtOvG2iuulna2a5bR6Gw&s"],
       "tags": ["laptop", "hp", "convertible"],
       "category": "Laptop",
       "brand": "HP",
@@ -162,7 +162,7 @@
     {
       "_id": "60d21b4667d0d8992e610c8d",
       "name": "Asus ROG Zephyrus G14",
-      "images": ["rog-zephyrus-g14-1.jpg", "rog-zephyrus-g14-2.jpg", "rog-zephyrus-g14-3.jpg"],
+      "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEDGFoB2nWlvB6IFMhlWYawTN-VIeAr2z5Q&s", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc_Qk5ZxtehPQIVjjdZFl05cerrzUQ2eizNw&s"],
       "tags": ["laptop", "asus", "gaming"],
       "category": "Laptop",
       "brand": "Asus",
@@ -182,7 +182,7 @@
     {
       "_id": "60d21b4667d0d8992e610c8e",
       "name": "Google Pixel 6 Pro",
-      "images": ["pixel-6-pro-1.jpg", "pixel-6-pro-2.jpg", "pixel-6-pro-3.jpg"],
+      "images": [https://www.custommacbd.com/cdn/shop/files/3784-23234.jpg?v=1687459730", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkaUIyQrWtNf0ROXjRpTblh5gno2-fgBKOFw&s"],
       "tags": ["mobile", "smartphone", "google"],
       "category": "Mobile",
       "brand": "Google",
@@ -202,7 +202,7 @@
     {
       "_id": "60d21b4667d0d8992e610c8f",
       "name": "OnePlus 9 Pro",
-      "images": ["oneplus-9-pro-1.jpg", "oneplus-9-pro-2.jpg", "oneplus-9-pro-3.jpg"],
+      "images": ["https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/spec-image/9-pro/Pine%20green-gallery..png", "https://i.gadgets360cdn.com/large/oneplus_9_pro_image_twitter_evan_blass_1615970945464.jpg"],
       "tags": ["mobile", "smartphone", "oneplus"],
       "category": "Mobile",
       "brand": "OnePlus",
@@ -222,7 +222,7 @@
     {
       "_id": "60d21b4667d0d8992e610c90",
       "name": "Microsoft Surface Pro 7",
-      "images": ["surface-pro-7-1.jpg", "surface-pro-7-2.jpg", "surface-pro-7-3.jpg"],
+      "images": ["https://support.content.office.net/en-us/media/4202347e-f4f7-0d30-87f2-966649fb1bef.png", "https://www.pcworld.com/wp-content/uploads/2023/04/surface-pro-7-primary-100877015-orig-1.jpg?quality=50&strip=all"],
       "tags": ["tablet", "microsoft", "2-in-1"],
       "category": "Tablet",
       "brand": "Microsoft",
@@ -242,7 +242,7 @@
     {
       "_id": "60d21b4667d0d8992e610c91",
       "name": "Amazon Kindle Paperwhite",
-      "images": ["kindle-paperwhite-1.jpg", "kindle-paperwhite-2.jpg", "kindle-paperwhite-3.jpg"],
+      "images": ["https://www.zdnet.com/a/img/resize/530f21fa975c3bab89d8c361b8be3a5ac1b93c8e/2022/11/18/b249b0fb-ccc2-4c5f-8083-9c3d3abfd19d/kindle-signature-paperwhite-2.jpg?auto=webp&width=1280", "https://i.ebayimg.com/images/g/znoAAOSwWa1iYU6n/s-l1200.webp"],
       "tags": ["tablet", "amazon", "e-reader"],
       "category": "Tablet",
       "brand": "Amazon",
@@ -262,7 +262,7 @@
     {
       "_id": "60d21b4667d0d8992e610c92",
       "name": "Samsung Galaxy Tab S7",
-      "images": ["galaxy-tab-s7-1.jpg", "galaxy-tab-s7-2.jpg", "galaxy-tab-s7-3.jpg"],
+      "images": ["https://i5.walmartimages.com/seo/Samsung-Galaxy-Tab-S7-11-128GB-Mystic-Black-With-S-Pen-Wi-Fi-SM-T870NZKAXAR_207c98f6-65df-4be1-b729-a992c9b3cdeb.1d8238b8ff72fb0a7880b1de786ff361.jpeg", "https://www.startech.com.bd/image/cache/catalog/tablet/samsung/galaxy-s7-fe/galaxy-s7-fe-01-500x500.webp"],
       "tags": ["tablet", "samsung", "android"],
       "category": "Tablet",
       "brand": "Samsung",
@@ -282,7 +282,7 @@
     {
       "_id": "60d21b4667d0d8992e610c93",
       "name": "Sony WH-1000XM4",
-      "images": ["wh-1000xm4-1.jpg", "wh-1000xm4-2.jpg", "wh-1000xm4-3.jpg"],
+      "images": ["https://m.media-amazon.com/images/I/31JulV2yBjL._AC_.jpg", "https://i5.walmartimages.com/seo/Sony-WH-1000XM4-Wireless-Noise-Cancelling-Over-Ear-Headphones-Silver_ca53a2e8-7c3e-4ed0-8af2-d5ed76e85e64.d48dda116a7ba4b6001366e22f8ae477.jpeg"],
       "tags": ["headphones", "sony", "wireless"],
       "category": "Headphones",
       "brand": "Sony",
@@ -302,7 +302,7 @@
     {
       "_id": "60d21b4667d0d8992e610c94",
       "name": "Bose QuietComfort 35 II",
-      "images": ["qc35-ii-1.jpg", "qc35-ii-2.jpg", "qc35-ii-3.jpg"],
+      "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmtdjBm2AVJ_Cs7o2Z4C5YiDS3aurq7X6E4A&s", "https://www.startech.com.bd/image/cache/catalog/headphone/bose/bose-qc-35-2-500x500.jpg"],
       "tags": ["headphones", "bose", "wireless"],
       "category": "Headphones",
       "brand": "Bose",
@@ -322,7 +322,7 @@
     {
       "_id": "60d21b4667d0d8992e610c95",
       "name": "JBL Flip 5",
-      "images": ["jbl-flip-5-1.jpg", "jbl-flip-5-2.jpg", "jbl-flip-5-3.jpg"],
+      "images": ["https://m.media-amazon.com/images/I/61RD6cO34AL._AC_SL1200_.jpg", "https://www.techlandbd.com/image/catalog/Speaker/JBL/Flip-5/jbl-flip-5-speaker-2.jpeg"],
       "tags": ["speaker", "jbl", "wireless"],
       "category": "Speaker",
       "brand": "JBL",
@@ -342,7 +342,7 @@
     {
       "_id": "60d21b4667d0d8992e610c96",
       "name": "Amazon Echo Dot (4th Gen)",
-      "images": ["echo-dot-4th-gen-1.jpg", "echo-dot-4th-gen-2.jpg", "echo-dot-4th-gen-3.jpg"],
+      "images": ["https://adminapi.applegadgetsbd.com/storage/media/large/2534-88537.jpg", "https://martsbd.com/wp-content/uploads/2022/02/Amazon-Echo-Dot-4th-Gen-%E2%80%93-Smart-Speaker-with-Alexa-3.jpg"],
       "tags": ["speaker", "amazon", "smart"],
       "category": "Speaker",
       "brand": "Amazon",
@@ -362,7 +362,7 @@
     {
       "_id": "60d21b4667d0d8992e610c97",
       "name": "Fitbit Charge 4",
-      "images": ["fitbit-charge-4-1.jpg", "fitbit-charge-4-2.jpg", "fitbit-charge-4-3.jpg"],
+      "images": ["https://m.media-amazon.com/images/I/51JbJoO0UCL._AC_SL1500_.jpg", "https://cdn.mos.cms.futurecdn.net/LaBALQRveyNDQjrac9HjC9.jpg"],
       "tags": ["fitness", "tracker", "fitbit"],
       "category": "Wearable",
       "brand": "Fitbit",
@@ -382,7 +382,7 @@
     {
       "_id": "60d21b4667d0d8992e610c98",
       "name": "Apple Watch Series 6",
-      "images": ["apple-watch-6-1.jpg", "apple-watch-6-2.jpg", "apple-watch-6-3.jpg"],
+      "images": ["https://www.techlandbd.com/image/catalog/Smart%20Watch/Apple/apple-watch-series-6/apple-watch-series-6-3.jpg", "https://www.apple.com/newsroom/images/product/watch/standard/Apple_delivers-apple-watch-series-6_09152020_big.jpg.large.jpg"],
       "tags": ["wearable", "smartwatch", "apple"],
       "category": "Wearable",
       "brand": "Apple",
@@ -402,7 +402,7 @@
     {
       "_id": "60d21b4667d0d8992e610c99",
       "name": "Garmin Forerunner 945",
-      "images": ["forerunner-945-1.jpg", "forerunner-945-2.jpg", "forerunner-945-3.jpg"],
+      "images": ["https://m.media-amazon.com/images/I/41uA86bpg+L._AC_SL1000_.jpg", "https://res.garmin.com/transform/image/upload/b_rgb:FFFFFF,c_pad,dpr_2.0,f_auto,h_400,q_auto,w_400/c_pad,h_400,w_400/v1/Product_Images/en/products/010-02383-42/v/cf-xl?pgw=1"],
       "tags": ["wearable", "smartwatch", "garmin"],
       "category": "Wearable",
       "brand": "Garmin",
@@ -422,7 +422,7 @@
     {
       "_id": "60d21b4667d0d8992e610c9a",
       "name": "Sony Alpha a7 III",
-      "images": ["alpha-a7-iii-1.jpg", "alpha-a7-iii-2.jpg", "alpha-a7-iii-3.jpg"],
+      "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn6E9yjbjWfQcxOQLnVZ1M6xkGEjPS-_2sIw&s", "https://i5.walmartimages.com/seo/Sony-Alpha-a7-III-Mirrorless-Digital-Camera-with-28-70mm-Lens-Open-Box_bc46360b-2f39-463b-a6b2-588c83906769.0d2ad6c0f6fe2cb0f6d285cd63916692.jpeg"],
       "tags": ["camera", "sony", "mirrorless"],
       "category": "Camera",
       "brand": "Sony",
@@ -442,7 +442,7 @@
     {
       "_id": "60d21b4667d0d8992e610c9b",
       "name": "Canon EOS R6",
-      "images": ["eos-r6-1.jpg", "eos-r6-2.jpg", "eos-r6-3.jpg"],
+      "images": ["https://digitech.com.bd/wp-content/uploads/2023/08/eos-r6-body-1200x675.webp", "https://2.img-dpreview.com/files/p/E~TC4x3S590x0~articles/1548544834/body/Canon-EOS-R6-lead-01.jpeg"],
       "tags": ["camera", "canon", "mirrorless"],
       "category": "Camera",
       "brand": "Canon",
@@ -462,7 +462,7 @@
     {
       "_id": "60d21b4667d0d8992e610c9c",
       "name": "Nikon Z6 II",
-      "images": ["z6-ii-1.jpg", "z6-ii-2.jpg", "z6-ii-3.jpg"],
+      "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ9QU7iEoDy1lRpgWDqogBtfJYgnMdz6ZjJw&s", "https://petapixel.com/assets/uploads/2020/10/TO_P_Z7II_USDD_05.jpg"],
       "tags": ["camera", "nikon", "mirrorless"],
       "category": "Camera",
       "brand": "Nikon",
@@ -482,7 +482,7 @@
     {
       "_id": "60d21b4667d0d8992e610c9d",
       "name": "GoPro HERO9 Black",
-      "images": ["hero9-black-1.jpg", "hero9-black-2.jpg", "hero9-black-3.jpg"],
+      "images": ["https://2.img-dpreview.com/files/p/E~TS590x0~articles/0011201358/product/Nikon-Z6-II-lifestyle.jpeg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzs7-HJtuxix2wbJ02NeZYXs9kvQ8s-5ZPw&s"],
       "tags": ["camera", "gopro", "action"],
       "category": "Camera",
       "brand": "GoPro",
@@ -502,7 +502,7 @@
     {
       "_id": "60d21b4667d0d8992e610c9e",
       "name": "DJI Mavic Air 2",
-      "images": ["mavic-air-2-1.jpg", "mavic-air-2-2.jpg", "mavic-air-2-3.jpg"],
+      "images": ["https://m.media-amazon.com/images/I/51eae+6sQoL._AC_SL1500_.jpg", "https://cdn.vox-cdn.com/thumbor/ttwNvqvON89HLjE8EJhAtxbUmUM=/0x0:2040x1360/1200x628/filters:focal(1035x813:1036x814)/cdn.vox-cdn.com/uploads/chorus_asset/file/19936404/vpavic_042029_4003_0171.jpg"],
       "tags": ["drone", "dji", "camera"],
       "category": "Drone",
       "brand": "DJI",
@@ -522,7 +522,7 @@
     {
       "_id": "60d21b4667d0d8992e610c9f",
       "name": "DJI Mini 2",
-      "images": ["dji-mini-2-1.jpg", "dji-mini-2-2.jpg", "dji-mini-2-3.jpg"],
+      "images": ["https://m.media-amazon.com/images/I/51KA0bQmPDL._AC_UF1000,1000_QL80_.jpg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOaE9HjAfd8P7Z-6RU-MWd1-JxG_OSoliCZA&s"],
       "tags": ["drone", "dji", "camera"],
       "category": "Drone",
       "brand": "DJI",
@@ -542,7 +542,7 @@
     {
       "_id": "60d21b4667d0d8992e610ca0",
       "name": "Ring Video Doorbell Pro 2",
-      "images": ["ring-doorbell-pro-2-1.jpg", "ring-doorbell-pro-2-2.jpg", "ring-doorbell-pro-2-3.jpg"],
+      "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmLtHtC6RyoWh0FYGAcZmeRMSrDqAsQxCWZQ&s", "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/wm/156868-smart-home-review-ring-video-doorbell-pro-2-lead-image1-qgxcmx8jdh.jpg"],
       "tags": ["home", "security", "ring"],
       "category": "Home Security",
       "brand": "Ring",
@@ -562,7 +562,7 @@
     {
       "_id": "60d21b4667d0d8992e610ca1",
       "name": "Nest Learning Thermostat",
-      "images": ["nest-thermostat-1.jpg", "nest-thermostat-2.jpg", "nest-thermostat-3.jpg"],
+      "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIGmwEzfigqrCqqxa6MWTrglnkD7k6n_zyfA&s", "https://cdn11.bigcommerce.com/s-tfq5d/images/stencil/1280x1280/products/3352/4129/Nest_-_T3007ES_-_Cooling__10652.1550521527.jpg?c=2"],
       "tags": ["home", "smart", "nest"],
       "category": "Home Automation",
       "brand": "Google",
